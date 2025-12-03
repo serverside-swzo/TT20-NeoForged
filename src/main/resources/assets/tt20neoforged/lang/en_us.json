@@ -1,0 +1,34 @@
+{
+  "tt20.command.main.version": "Running TT20 version %s",
+  "tt20.command.main.enabled": "Enabled: %s",
+
+  "tt20.command.tps.line": "TPS %s with average %s accurate %s",
+  "tt20.command.tps.missed": "Missed ticks: %s",
+
+  "tt20.command.status.header": "--- TT20 Status ---",
+  "tt20.command.status.tps": "TPS: %s | MSPT: %s",
+  "tt20.command.status.missed_ticks": "Missed ticks: %s",
+
+  "tt20.command.status.line": "%s: %s",
+  "tt20.command.status.footer": "--------------------",
+  "tt20.command.status.version": "Version: %s",
+  "tt20.command.status.mspt": "MSPT: %s",
+
+  "tt20.command.toggle.feedback": "%s is now %s",
+  "tt20.command.toggle.unknown_key": "Unknown config key: %s",
+
+  "tt20.command.reload.success": "Successfully reloaded TT20 configuration",
+
+  "tt20.command.mask.add.success": "Added block entity mask for %s",
+  "tt20.command.mask.add.exists": "%s is already masked",
+  "tt20.command.mask.remove.success": "Removed block entity mask for %s",
+  "tt20.command.mask.remove.not_found": "Block %s is not in mask list",
+  "tt20.command.mask.list.header": "Masked blocks (%s):",
+
+  "tt20.command.set_cap.success": "Updated tick repeat cap to %s",
+
+  "tt20.status.on": "§aON",
+  "tt20.status.off": "§cOFF",
+  "tt20.status.enabled": "§aenabled",
+  "tt20.status.disabled": "§cdisabled"
+}
