@@ -13,6 +13,9 @@
     "world.BlockBehaviourMixin",
     "world.GameRulesMixin",
     "world.LevelChunk$BoundTickingBlockEntityMixin",
+    "PlayerListMixin",
+    "ServerWatchdogMixin",
+    "world.ServerLevelMixin"
   ],
   "client": [
   ],

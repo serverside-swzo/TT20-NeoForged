@@ -26,6 +26,3 @@ type = "required"
 versionRange = "${minecraft_version_range}"
 ordering = "NONE"
 side = "BOTH"
-
-[[extensions."${mod_id}"]]
-serverMixins = "tt20neoforged.server.mixins.json"
