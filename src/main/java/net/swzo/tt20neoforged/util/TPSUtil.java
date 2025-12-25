@@ -66,9 +66,9 @@ public class TPSUtil {
 
         double tps = Tt20NeoForged.TPS_CALCULATOR.getMostAccurateTPS();
 
-        if (tps <= 0.0) return ticks; 
+        if (tps <= 0.0) return ticks;
 
-        double multiplier = 20.0 / tps;
+        double multiplier = tps / 20.0;
         return ticks * multiplier;
     }
 }
